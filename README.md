@@ -12,7 +12,7 @@ This project was developed using Android Studio as a part of a mobile developmen
 
 ## Features
 - Interactive touch-based gameplay
-- Automatic puzzle solver that computeds valid move sequences
+- Automatic puzzle solver that computes valid move sequences
 - Custom game logic implemented entirely in Java
 - Rule-based move validation and win detection
 - Puzzle reset functionality
